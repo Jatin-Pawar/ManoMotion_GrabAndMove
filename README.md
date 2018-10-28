@@ -10,7 +10,7 @@ In this project I use Manomotion sdk to interact with augmented objects i.e. to 
 
 ## How to use this project?
 
- #First of all you should have access to manomotion sdk(i.e. you should have a manomoition license).
+ *First of all you should have access to manomotion sdk(i.e. you should have a manomoition license).
  
  #Open the Manomotion_GrabAndMove/Manomotion in unity.
  
