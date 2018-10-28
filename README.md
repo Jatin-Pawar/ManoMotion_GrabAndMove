@@ -27,7 +27,7 @@ In this project I use Manomotion sdk to interact with augmented objects i.e. to 
  
  ## Demo
  
- ![Demo](https://media.giphy.com/media/BcfhQ1gCM12XtYxMHL/giphy.gif)
+ ![](https://media.giphy.com/media/BcfhQ1gCM12XtYxMHL/200w_d.gif)
  
  Video Link:
  https://drive.google.com/open?id=1tHVA44jK4TvOB0sTQeuO2ypDv1R1WS9r
