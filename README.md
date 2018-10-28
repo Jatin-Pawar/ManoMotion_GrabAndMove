@@ -26,4 +26,6 @@ In this project I use Manomotion sdk to interact with augmented objects i.e. to 
  
  
  ## Demo
- ![Demo](https://drive.google.com/open?id=1tHVA44jK4TvOB0sTQeuO2ypDv1R1WS9r)
+ https://drive.google.com/open?id=1tHVA44jK4TvOB0sTQeuO2ypDv1R1WS9r
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
