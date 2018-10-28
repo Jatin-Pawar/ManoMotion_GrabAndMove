@@ -8,7 +8,7 @@ More about Manomoiton: https://www.manomotion.com/company/
 
 In this project I use Manomotion sdk to interact with augmented objects i.e. to hold them and move them via my hands. Through this project I learned about the detecting collisions in unity, triggers and about manomotion.
 
-##How to use this project?
+## How to use this project?
 
  #First of all you should have access to manomotion sdk(i.e. you should have a manomoition license).
  
