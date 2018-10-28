@@ -23,3 +23,7 @@ In this project I use Manomotion sdk to interact with augmented objects i.e. to 
  * Navigate to File->Build Settings->Player Settings->Other Settings-> Package Name and put the package name that you have registered with manomoiton.
  
  * Build and run the app.
+ 
+ 
+ ## Demo
+ ![Demo](https://drive.google.com/open?id=1tHVA44jK4TvOB0sTQeuO2ypDv1R1WS9r)
