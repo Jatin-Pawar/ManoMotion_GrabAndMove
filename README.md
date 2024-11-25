@@ -31,5 +31,11 @@ In this project I use Manomotion sdk to interact with augmented objects i.e. to 
  
  Video Link:
  https://drive.google.com/open?id=1tHVA44jK4TvOB0sTQeuO2ypDv1R1WS9r
- 
+
+
+  ## Connect with me on
+  LinkedIn: https://www.linkedin.com/in/jatin-pawar/
+  Personal Email: jatinpawar2805@gmail.com
+   
+  Always happy to connect and meet like-minded people :)
 
